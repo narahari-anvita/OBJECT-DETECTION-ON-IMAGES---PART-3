@@ -1,0 +1,27 @@
+body{
+    background-size: cover;
+    background-position: center;
+
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+.bg_color
+{
+font-size: 20px;
+color: rgb(255, 255, 255);
+border-radius: 20px;
+font-weight: 400;
+background-image: linear-gradient(to top left, rgb(37, 0, 85),rgb(129, 0, 214), rgb(217, 160, 250));
+width: 300px;
+height: 40px;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
